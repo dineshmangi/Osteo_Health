@@ -94,8 +94,8 @@ Osteoporosis is a condition that weakens bones, making them fragile and more lik
 
 If you have any suggestions or feedback, feel free to connect with me on LinkedIn or via email:
 
-- **Email**: [wiryawansujana@gmail.com](mailto\:wiryawansujana@gmail.com)
-- **LinkedIn**: https\://www\.linkedin.com/in/rajendra-artanto-4698a8306/
+- **Email**: dineshmangi2005@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/dinesh-mangi-513698289/
 
 #MachineLearning #Osteoporosis #EDA #DataScience
 
